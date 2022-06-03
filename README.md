@@ -1,6 +1,6 @@
-# SimpleServer
 
-**TODO: Add description**
+
+A server written in Elixir done as a personal project
 
 ## Installation
 
