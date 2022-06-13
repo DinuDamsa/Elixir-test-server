@@ -19,3 +19,13 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/simple_server>.
 
+## Starting the server
+
+Using the command
+```
+iex -S mix
+```
+you can run the server. This will enable us to send requests to the server.
+
+
+## Endpoints
